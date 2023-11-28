@@ -1,5 +1,5 @@
 # mapy
-A simple map getter
+A simple map getter that generates a QR.
 
 Requires:
 
