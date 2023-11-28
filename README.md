@@ -3,6 +3,8 @@ A simple map getter that generates a QR.
 
 Requires:
 
+tkinter. https://docs.python.org/3/library/tkinter.html
+
 tkintermapview. https://github.com/TomSchimansky/TkinterMapView
 
 segno. https://segno.readthedocs.io/en/latest/
