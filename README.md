@@ -1,4 +1,4 @@
-# mapy
+# mapy.py
 A simple map getter that generates a QR.
 
 Requires:
